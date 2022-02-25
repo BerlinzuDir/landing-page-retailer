@@ -1,0 +1,70 @@
+.App {
+  background-color: #7396A9;
+}
+
+.text {
+  color: white;
+}
+
+.header {
+  padding-top: 30px;
+}
+
+.logo-header {
+  width: 80%;
+  min-width: 95px;
+  max-width: 180px;
+  height: auto;
+}
+
+.line {
+  width: 35%;
+  min-width: 60px;
+  max-width: 140px;
+  height: 5px;
+}
+
+.Form-1 {
+  background-color: white;
+}
+.Form-2 {
+  background-color: #7396A9;
+}
+
+.text-header-form {
+  color:#1A4650;
+}
+
+.text-form {
+  color: #26454F;
+}
+
+.bubble {
+  width: 50%;
+  min-width: 10px;
+  max-width: 180px;
+  height: auto;
+  margin-block-start: -20px;
+  margin-left: -156px;
+}
+
+.select {
+  width: 105px;
+}
+
+.button {
+  width: 160px;
+  color: #1A4650;
+}
+
+.punkte {
+  width: auto;
+  height: 200px;
+  margin-top: -115px;
+  margin-right: -40px;
+}
+
+.footer {
+  background-color: white;
+  width: 50%;
+}
