@@ -85,9 +85,20 @@ function App() {
           </div>
         </div>
         <div className="col-7">
-          <h1 className='header text float-start fw-bold'>
-            Fragen und Antworten
-          </h1>
+          <div className="row">
+            <h1 className='header text float-start fw-bold'>
+              Erste Antworten
+            </h1>
+          </div>
+          <div className="row pt-5">
+            <button class="btn btn-primary-outline" type="button"><h4 className='text fw-bold float-start'> Wie kann ich mich beteiligen?</h4></button>
+          </div>
+          <div className="row pt-4">
+            <button class="btn btn-primary-outline" type="button"><h4 className='text fw-bold float-start'> Welche Leistungen bietet mir BerlinzuDir?</h4></button>
+          </div>
+          <div className="row pt-4">
+            <button class="btn btn-primary-outline" type="button"><h4 className='text fw-bold float-start'> Was muss ich tun?</h4></button>
+          </div>
         </div>
         <div className="col-lg-2"></div>
       </div>
