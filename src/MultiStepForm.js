@@ -1,13 +1,8 @@
-import { React, useState } from 'react'
+import { React } from 'react'
 import './App.css';
 
 
 export default function MultiStepForm() {
-    const [state, setState] = useState(
-        {
-            page: 0
-        }
-    )
     return (
         <div className="container-fluid Form-1 p-4">
             <div className="container-fluid Form-2 p-2">
