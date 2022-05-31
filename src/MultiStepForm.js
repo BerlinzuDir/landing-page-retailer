@@ -8,7 +8,7 @@ export default function MultiStepForm() {
             <div className="container-fluid Form-2 p-2">
                 <div className="container-fluid Form-1 p-2">
                     <h3 className='text-header-form pt-4 ps-4'>Deine Anmeldung</h3>
-                    <p className='text-form pt-1 ps-4'>Werde teil von BerlinzuDir.</p>
+                    <p className='text-form pt-1 ps-4'>Werde Teil von BerlinzuDir.</p>
                     <div className="ps-4 pe-4">
                         <select class="form-select select">
                             <option selected>Anrede</option>

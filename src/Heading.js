@@ -18,7 +18,7 @@ export default function Heading() {
         <div className="row">
           <div className="col mt-3 px-1">
             <p className='text'>
-              Auf unserem lokalem Online-Marktplatz kannst Du Deine Produkte berlinweit verkaufen. Wir unterstützen Dich bei der Digitalisierung Deines Produktsortiments. Alle Online-Bestellung-en werden noch am selben Tag per Lastenrad abgeholt und an Deine Kunden ausgeliefert.
+              Auf unserem lokalem Online-Marktplatz kannst Du Deine Produkte berlinweit verkaufen. Wir unterstützen Dich bei der Digitalisierung Deines Produktsortiments. Alle Online Bestellungen werden noch am selben Tag per Lastenrad abgeholt und an Deine Kunden ausgeliefert.
             </p>
           </div>
           <div className="col-3"></div>
